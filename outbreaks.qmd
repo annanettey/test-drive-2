@@ -11,9 +11,9 @@ Each outbreak has its own concfolder, downloadable CSV, and optional full datase
 ::: {.card-grid} 
  
 ::: {.info-card} 
-### Example Outbreak 
+### Manitoba's Meningococcal Outbreak Eligibility
  
-Evidence surveillance data for example outbreak literature. 
+This evidence surveillance for Meningococcal cases covers cases from May 2026 to present. 
  
 [View evidence](outbreaks/example-outbreak/) 
 ::: 
